@@ -1,0 +1,12 @@
+
+1-2: I typed pring("Hello World :)") which is a simple typo, and yielded me the error "File "c:\Users\ella.carter001\Desktop\CSC_141\compsci\hello.py", line 2, in <module>
+    pring("Hello World :)")
+    ^^^^^
+NameError: name 'pring' is not defined. Did you mean: 'print'?"
+which basically just means that "pring" is not a function that can be run because it doesn't exist. 
+A different typo I made was print("Hell0 wold") which does not return an error because the actual text inside of the quotations does not matter. It will print whatever I type in there, typos and all. 
+
+1-3: If I had infinite program knowledge, I would do several things. 
+1. I would want to make something that can help the world, such as something that can make the jobs of medical workers easier. A program that compiles information or automatically fills in patient charts with human precision would be pretty cool, and I don't mean with generative AI because I'm anti generative AI. 
+2. I would want to make something that makes MY life easier, like a simple program to sort my files so I don't have to do it myself. I download a lot of music and othersuch things onto my personal laptop, and I wouldn't want to sort all of those things by myself all the time.
+3. I would want to make a video game, even if it's something simple. I would suppose this counts. I'm also an artist, so I could handle that part myself as well. I would need music though... I've tried to make music myself, and it didn't turn out very well, haha. 
