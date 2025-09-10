@@ -1,0 +1,15 @@
+# 3-8 try it yourself
+places = ["alaska", "australia", "japan", "canada", "greece"]
+print(places)
+print(sorted(places))
+print(places)
+print(sorted(places, reverse = True))
+print(places)
+places.reverse()
+print(places)
+places.reverse()
+print(places)
+places.sort()
+print(places)
+places.sort(reverse = True)
+print(places)
