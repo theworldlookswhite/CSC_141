@@ -1,0 +1,3 @@
+in python you can make games, simple or complex.
+in python you can make infinite loops.
+in python you can run simulations and calculate probability.
